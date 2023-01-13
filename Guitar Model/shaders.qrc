@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Object">
+        <file>fobject.fsh</file>
+        <file>vobject.vsh</file>
+    </qresource>
+    <qresource prefix="/Lamp">
+        <file>flamp.fsh</file>
+        <file>vlamp.vsh</file>
+    </qresource>
+    <qresource prefix="/Depth">
+        <file>vdepth.vsh</file>
+        <file>fdepth.fsh</file>
+    </qresource>
+</RCC>
